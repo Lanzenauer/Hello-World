@@ -1,0 +1,23 @@
+{
+  "id": "fe34ee9a-061e-4c04-bedb-117803758dc4",
+  "name": "P6037104",
+  "publisher": "",
+  "brief": "",
+  "description": "Add the to 'VarDim Type Card' the field 'Code1' and a action to open the report 'Update VarDim Description'",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}

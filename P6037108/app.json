@@ -1,0 +1,23 @@
+{
+  "id": "298f55b1-aa38-41ab-81e7-19b4f7b289a6",
+  "name": "P6037108",
+  "publisher": "",
+  "brief": "",
+  "description": "Add a Action to the 'Master Card' to open the Page 'Code5'",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}

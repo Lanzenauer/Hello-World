@@ -1,8 +1,2 @@
 # Hello-World
-# To demonstrate my power to rule about the world!
-# lets make the different
-# Test something
-xdgvfdy
-# asfferfresfd
-#fvsuhbflkvbns
-# cx
+# Here I want to test how well and easy a AL can be upload

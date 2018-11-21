@@ -1,0 +1,23 @@
+{
+  "id": "4f719935-1d5c-45db-a69f-de440a4ec42f",
+  "name": "P6037101",
+  "publisher": "",
+  "brief": "",
+  "description": "Add The Field 'Boolean1' to the Page 'VarDim Masters List'",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
